@@ -1,10 +1,18 @@
 # Ex4.2-Animal-Feeding-Phase-2
 
-Aim:
+# DEVELOPED BY: Viswajith Lalithram R.V
+
+# REG NO: 212224240187
+
+---
+
+# Aim:
 
 To develop a animal feeding game - Phase 2 using unity.
 
-Algorithm:
+---
+
+# Algorithm:
 
 Player Control :
 
@@ -35,11 +43,9 @@ Create a new DetectCollisions.cs script, then drag the scripts and add it to eac
 Step 9:
 For all the animal prefabs and food in the inspector, drop down the override option and choose apply all.
 
-PROGRAM:
+---
 
-DEVELOPED BY: Viswajith Lalithram R.V
-
-REG NO: 212224240187
+# PROGRAM:
 
 SPAWNMANAGER:
 
@@ -105,12 +111,16 @@ public class DetectCollision : MonoBehaviour
 }
 
 ```
+---
 
-OUTPUT :
+# OUTPUT :
+
 
 ![Alt text](<Assets/Screenshot 2025-05-09 131036.png>)
 
-RESULT :
+---
+
+# RESULT :
 
 Animal feeding game PHASE-2 using unity is developed successfully......
 
